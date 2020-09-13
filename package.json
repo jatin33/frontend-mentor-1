@@ -1,0 +1,13 @@
+{
+  "name": "social-proof",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "jatin33 <jatinpanjwani12@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "sass src/index.scss build/index.css"
+  },
+  "devDependencies": {
+    "sass": "^1.26.10"
+  }
+}
